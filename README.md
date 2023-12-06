@@ -10,7 +10,9 @@ This project explores binary logistic regression on the Iris dataset to classify
    - Logistic regression proves effective for Iris dataset classification. It excels in binary outcomes, suitable for pairing Iris species in a two-by-two manner. Despite slight variations in accuracy, it serves as a robust choice for this dataset.
 
 3. **Recommendations for Improving Classification:**
+   
    a. *Utilize a more complex algorithm.*
       - While logistic regression is suitable, a more intricate algorithm may capture complex relationships better, potentially improving accuracy.
+        
    b. *Increase dataset size.*
       - With only 150 entries, the Iris dataset is relatively small. Expanding the dataset can enhance the machine learning model's ability to discern intricate feature relationships, likely leading to improved accuracy.
