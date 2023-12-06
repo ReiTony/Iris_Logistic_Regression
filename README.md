@@ -1,6 +1,7 @@
 # Iris_Logistic_Regression
 This project explores binary logistic regression on the Iris dataset to classify Setosa, Versicolor, and Virginica species. Evaluate model accuracy, confusion matrices, and probabilities. Discuss suitability, suggest enhancements, providing a concise analysis.
 
+**Warning notes**: Since we will be using this method, there will be times wherein an entry will produce no species or more than one species.
 # Discussion of Results and Reflection
 
 1. **How accurate is each model?**
